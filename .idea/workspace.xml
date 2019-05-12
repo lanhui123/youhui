@@ -1,24 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ce2e594-dba3-4eac-9f80-acca5e0e4951" name="Default" comment="" />
+    <list default="true" id="3ce2e594-dba3-4eac-9f80-acca5e0e4951" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyfire/assets/img/1557471048(1).jpg" beforeDir="false" afterPath="$PROJECT_DIR$/companyfire/assets/img/company-title.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyfire/assets/img/blog/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyfire/assets/img/blog/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyfire/assets/img/blog/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyfire/assets/img/blog/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyfire/assets/img/desktop.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyfire/assets/img/desktop2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyfire/assets/img/graph-dark-a.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyfire/assets/img/request.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyfire/assets/img/team/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyfire/assets/img/team/photo-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyfire/assets/img/team/photo-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyfire/assets/img/team/team-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyfire/assets/img/team/team-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyfire/assets/img/team/team-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyfire/assets/img/team/team-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/companyfire/assets/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/companyfire/assets/index.html" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
-    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-888697003">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="jpg" value="2" />
+          <entry key="png" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Image" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/companyfire/assets/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6">
-              <caret line="522" column="14" lean-forward="true" selection-start-line="522" selection-start-column="14" selection-end-line="522" selection-end-column="14" />
+            <state relative-caret-position="372">
+              <caret line="495" column="54" selection-start-line="495" selection-start-column="54" selection-end-line="495" selection-end-column="54" />
               <folding>
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
@@ -26,35 +75,29 @@
                 <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
-                <element signature="e#15569#17015#0" />
-                <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
                 <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
+                <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index2.html" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/companyfire/assets/index2.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="606">
+            <state relative-caret-position="2898">
               <caret line="126" column="4" selection-start-line="126" selection-start-column="4" selection-end-line="126" selection-end-column="4" />
-              <folding>
-                <element signature="e#5405#9632#0" />
-                <element signature="e#9634#16209#0" />
-              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/companyfire/assets/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="504" column="23" selection-start-line="504" selection-start-column="23" selection-end-line="504" selection-end-column="23" />
+            <state relative-caret-position="243">
+              <caret line="2493" column="19" lean-forward="true" selection-start-line="2493" selection-start-column="19" selection-end-line="2493" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -67,6 +110,9 @@
         <option value="HTML File" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -87,8 +133,8 @@
         <option value="$PROJECT_DIR$/companyfire/assets/js/responsiveslides.min.js" />
         <option value="$PROJECT_DIR$/index2.html" />
         <option value="$PROJECT_DIR$/companyfire/assets/css/style.css" />
-        <option value="$PROJECT_DIR$/companyfire/assets/index.html" />
         <option value="$PROJECT_DIR$/companyfire/assets/index2.html" />
+        <option value="$PROJECT_DIR$/companyfire/assets/index.html" />
       </list>
     </option>
   </component>
@@ -97,9 +143,6 @@
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
-  </component>
-  <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="663" />
@@ -117,33 +160,26 @@
         <subPane>
           <expand>
             <path>
-              <item name="kehuwangzhan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kehuwangzhan" type="462c0819:PsiDirectoryNode" />
+              <item name="youhui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youhui" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="kehuwangzhan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kehuwangzhan" type="462c0819:PsiDirectoryNode" />
+              <item name="youhui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youhui" type="462c0819:PsiDirectoryNode" />
               <item name="companyfire" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="kehuwangzhan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kehuwangzhan" type="462c0819:PsiDirectoryNode" />
-              <item name="companyfire" type="462c0819:PsiDirectoryNode" />
-              <item name="assets" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="kehuwangzhan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kehuwangzhan" type="462c0819:PsiDirectoryNode" />
+              <item name="youhui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youhui" type="462c0819:PsiDirectoryNode" />
               <item name="companyfire" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="kehuwangzhan" type="b2602c69:ProjectViewProjectNode" />
-              <item name="kehuwangzhan" type="462c0819:PsiDirectoryNode" />
+              <item name="youhui" type="b2602c69:ProjectViewProjectNode" />
+              <item name="youhui" type="462c0819:PsiDirectoryNode" />
               <item name="companyfire" type="462c0819:PsiDirectoryNode" />
               <item name="assets" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -156,7 +192,7 @@
     <property name="SearchEverywhereHistoryKey" value="hom&#9;null&#9;null&#10;home&#9;null&#9;null&#10;particles&#9;null&#9;null&#10;navbar-&#9;null&#9;null&#10;menu-top&#9;null&#9;null&#10;loca&#9;null&#9;null&#10;lo&#9;FILE&#9;file://D:/Downloads/LinkLocationbarLite.uc.js/LinkLocationbarLite.uc.js&#10;statusbar-display&#9;null&#9;null&#10;api&#9;null&#9;null&#10;footer_copyright&#9;null&#9;null&#10;preloader&#9;null&#9;null&#10;我们&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="javascript.nodejs.core.library.configured.version" value="10.15.3" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../contentkehu" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.web.browsers" />
@@ -189,7 +225,9 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/kehuwangzhan/companyfire/assets/index.html" />
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/kehuwangzhan/companyfire/assets/index.html">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html" />
@@ -222,32 +260,34 @@
       <workItem from="1557362564161" duration="26942000" />
       <workItem from="1557397818397" duration="299000" />
       <workItem from="1557462293442" duration="19414000" />
+      <workItem from="1557669249137" duration="376000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95676000" />
+    <option name="totallyTimeSpent" value="96052000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18071654" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18005952" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32890365" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.15050167" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,27 +297,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/companyfire/assets/owlcarousel/css/owl.carousel.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1083">
-          <caret line="57" column="10" selection-start-line="57" selection-start-column="2" selection-end-line="57" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/companyfire/assets/bootstrap/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29127">
-          <caret line="1533" column="1" selection-start-line="1533" selection-start-column="1" selection-end-line="1533" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/companyfire/assets/fonts/font-awesome.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="91" selection-start-line="4" selection-start-column="91" selection-end-line="4" selection-end-column="91" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/companyfire/assets/bootstrap/js/bootstrap.min.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -323,20 +342,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/companyfire/assets/bootstrap/css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15420">
-          <caret line="7206" column="13" selection-start-line="7206" selection-start-column="13" selection-end-line="7206" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://D:/Downloads/LinkLocationbarLite.uc.js/LinkLocationbarLite.uc.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="36" column="56" selection-start-line="36" selection-start-column="56" selection-end-line="36" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Downloads/LinkLocationbarLite.uc.js/LinkLocationbarLite.uc.js" />
     <entry file="file://$PROJECT_DIR$/companyfire/assets/js/modernizr-2.8.3.min.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4378">
@@ -443,12 +449,8 @@
     <entry file="file://$PROJECT_DIR$/companyfire/assets/img/homepage1.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/companyfire/assets/img/logo.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/companyfire/assets/img/logos.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/companyfire/assets/img/logo.png" />
+    <entry file="file://$PROJECT_DIR$/companyfire/assets/img/logos.jpg" />
     <entry file="file://$PROJECT_DIR$/companyfire/assets/img/page2.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -456,9 +458,6 @@
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/companyfire/assets/img/page2-1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/companyfire/assets/img/request.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/companyfire/assets/img/second-2.jpg">
@@ -470,37 +469,32 @@
     <entry file="file://$PROJECT_DIR$/companyfire/assets/img/desktop.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/companyfire/assets/img/graph-dark-a.png">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/companyfire/assets/img/companyicon.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/companyfire/assets/img/1557471048(1).jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/companyfire/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="504" column="23" selection-start-line="504" selection-start-column="23" selection-end-line="504" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/companyfire/assets/index2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="606">
+        <state relative-caret-position="2898">
           <caret line="126" column="4" selection-start-line="126" selection-start-column="4" selection-end-line="126" selection-end-column="4" />
-          <folding>
-            <element signature="e#5405#9632#0" />
-            <element signature="e#9634#16209#0" />
-          </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/companyfire/assets/img/company-title.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/companyfire/assets/img/blog/1.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/companyfire/assets/img/graph-dark-a.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/companyfire/assets/img/request.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
     <entry file="file://$PROJECT_DIR$/companyfire/assets/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6">
-          <caret line="522" column="14" lean-forward="true" selection-start-line="522" selection-start-column="14" selection-end-line="522" selection-end-column="14" />
+        <state relative-caret-position="372">
+          <caret line="495" column="54" selection-start-line="495" selection-start-column="54" selection-end-line="495" selection-end-column="54" />
           <folding>
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" />
@@ -508,13 +502,18 @@
             <element signature="n#div#3;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="n#section#1;n#body#0;n#html#0;n#!!top" />
-            <element signature="e#15569#17015#0" />
-            <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#4;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#5;n#body#0;n#html#0;n#!!top" />
             <element signature="n#div#6;n#body#0;n#html#0;n#!!top" />
+            <element signature="n#section#4;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/companyfire/assets/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="2493" column="19" lean-forward="true" selection-start-line="2493" selection-start-column="19" selection-end-line="2493" selection-end-column="19" />
         </state>
       </provider>
     </entry>
